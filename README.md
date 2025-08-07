@@ -4,7 +4,7 @@ I'm a student at Virginia Tech. I'll be finishing my bachelor's in CS in Summer 
 
 I listen to music a lot, and I'm currently working on my passion project of making tools to improve my experience using Spotify.
 
-I have experience with Java, Python, C, and I'm currently learning React and Typescript.
+I'm experienced with Java and Python, and I'm currently learning React and Typescript.
 
 If you'd like to reach out, DM me on LinkedIn @ https://www.linkedin.com/in/ryan-p-cohen/
 
