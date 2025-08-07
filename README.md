@@ -6,7 +6,7 @@ I listen to music a lot, and I'm currently working on my passion project of maki
 
 I'm experienced with Java and Python, and I'm currently learning React and Typescript.
 
-If you'd like to reach out, DM me on LinkedIn @ https://www.linkedin.com/in/ryan-p-cohen/
+If you'd like to reach out, DM me on LinkedIn. Have a nice day! 👋
 
 <!--
 **ryanphilipcohen/ryanphilipcohen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
