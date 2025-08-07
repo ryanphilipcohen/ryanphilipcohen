@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi there, I'm Ryan!
+
+I'm a student at Virginia Tech. I'll be finishing my bachelor's in CS in Summer '26, and my masters in CS with a concentration in Data Analytics/AI in Spring '27!
+
+I listen to music a lot, and I'm currently working on my passion project of making tools to improve my experience using Spotify.
+
+I have experience with Java, Python, C, and I'm currently learning React and Typescript.
+
+If you'd like to reach out, DM me on LinkedIn @ https://www.linkedin.com/in/ryan-p-cohen/
 
 <!--
 **ryanphilipcohen/ryanphilipcohen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
