@@ -1,6 +1,6 @@
 ### Hi there, I'm Ryan!
 
-I'm a student at Virginia Tech. I'll be finishing my bachelor's in CS in Summer '26, and my masters in CS with a concentration in Data Analytics/AI in Spring '27!
+I'm a student at Virginia Tech. I'll be finishing my bachelor's in CS in Spring '26, and my masters in CS with a concentration in Data Analytics/AI in Spring '27!
 
 I listen to music a lot, and I'm currently working on my passion project of making tools to improve my experience using Spotify.
 
